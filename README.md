@@ -29,7 +29,7 @@ To optimize inference speed, avoid rate limits, and significantly cut down API c
 ### Setup Instructions
 1. Clone the repository and navigate into it:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/HiteshM2107/RAG-MongoDB.git
    cd RAG-MongoDB
    ```
 
