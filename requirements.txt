@@ -1,0 +1,7 @@
+pymongo ## To communicate with MongoDB
+openai ## To generate embeddings and for LLM
+langchain ## To orchestrate the RAG pipeline
+langchain_community ## To use community-contributed components
+pypdf ## To extract text from PDF files
+langchain_openai ## To use OpenAI models in LangChain
+sentence-transformers ## To use Hugging Face local embeddings

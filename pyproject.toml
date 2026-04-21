@@ -1,0 +1,16 @@
+[project]
+name = "rag-mongodb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.12",
+    "openai>=2.31.0",
+    "pymongo>=4.16.0",
+    "pypdf>=6.10.0",
+    "sentence-transformers>=3.0.0",
+]
